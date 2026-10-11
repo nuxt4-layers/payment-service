@@ -1,1 +1,1 @@
-# payment-service
+# @nuxt4-layers/payment-service
